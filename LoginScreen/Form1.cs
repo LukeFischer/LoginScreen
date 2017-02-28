@@ -13,9 +13,9 @@ namespace LoginScreen
     public partial class Form1 : Form
     {
         string name;
-        int password; //holds the users password
-
+        int password; //holds the users password     
         public Form1()
+
         {
             InitializeComponent();
         }
